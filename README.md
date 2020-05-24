@@ -1,4 +1,4 @@
-# yazlab
+# Word-Cross-Game made with Flutter
 
 A new Flutter application.
 
