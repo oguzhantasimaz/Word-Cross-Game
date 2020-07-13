@@ -1,8 +1,8 @@
 # Word-Cross-Game made with Flutter
 
-A new Flutter application.
+A new Flutter game.
 
-![In Game](https://prnt.sc/th4c7q)
+![inGame](https://user-images.githubusercontent.com/33134976/87345871-670eb600-c559-11ea-90eb-974daac04408.jpeg)
 
 
 ## Getting Started
